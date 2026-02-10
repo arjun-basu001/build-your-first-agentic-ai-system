@@ -17,9 +17,13 @@ This repository has branches for each of the videos in the course. You can use t
 This course uses two main Jupyter notebooks that you'll run on Google Colab:
 
 ### Chapter 3: V1 Action Autonomy (Router Agent)
+**[Open in Colab: Action Autonomy Notebook](https://colab.research.google.com/github/LinkedInLearning/agentic-ai-build-your-first-agentic-ai-system-4645038/blob/main/action_autonomy.ipynb)**
+
 Use the `action_autonomy.ipynb` notebook throughout Chapter 3. The notebook includes clear chapter break markers (🎬 End of Chapter) that show you where to stop for each video.
 
 ### Chapter 4: V2 Planning Autonomy (Planning Agent)
+**[Open in Colab: Planning Autonomy Notebook](https://colab.research.google.com/github/LinkedInLearning/agentic-ai-build-your-first-agentic-ai-system-4645038/blob/main/planning_autonomy.ipynb)**
+
 Use the `planning_autonomy.ipynb` notebook throughout Chapter 4. The notebook includes clear chapter break markers (🎬 End of Chapter) that show you where to stop for each video.
 
 ## Running the Notebooks
@@ -37,11 +41,6 @@ All notebooks in this course are designed to run on **Google Colab** with no loc
    - Toggle the "Notebook access" switch to enable access
 
 3. **Run the notebook**: Execute cells in order, stopping at chapter break markers as indicated in the videos
-
-### Alternative: Direct Colab Links
-
-- **[Chapter 3: Action Autonomy Notebook](https://colab.research.google.com/github/LinkedInLearning/agentic-ai-build-your-first-agentic-ai-system-4645038/blob/main/action_autonomy.ipynb)** - Use this for all Chapter 3 videos
-- **[Chapter 4: Planning Autonomy Notebook](https://colab.research.google.com/github/LinkedInLearning/agentic-ai-build-your-first-agentic-ai-system-4645038/blob/main/planning_autonomy.ipynb)** - Use this for all Chapter 4 videos
 
 ## Prerequisites
 
